@@ -1,0 +1,58 @@
+.certification{
+    width: 100%;
+    display: flex;
+    flex: 1 1 1;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    &__container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 260px;
+        height: 280px;
+        margin: 10px;
+        -webkit-box-shadow: 0px 0px 9px 5px rgba(0,0,0,0.43); 
+        box-shadow: 0px 0px 9px 5px rgba(0,0,0,0.43);
+    }
+    
+    &__img{
+        width: 100%;
+        img{
+            width: 70%;
+        }
+    }
+
+    &__title{
+        width: 100%;
+        padding: 0 20px;
+
+        p, a {
+            margin: 0;
+            padding: 0;
+        }
+
+        h4{
+            margin-top: 3px;
+            font-size: 20px;
+        }
+
+        p{
+            font-size: 15px;
+        }
+
+        a{
+            font-size: 12px;
+        }
+    }
+}
+
+.portolio__img{
+    width: 100%;
+
+        img{
+            width: 99%;
+        }
+}

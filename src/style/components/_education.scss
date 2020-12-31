@@ -1,0 +1,54 @@
+.education{
+    width: 100%;
+    min-height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;  
+
+    &__card{
+        background-color: rgba(7, 4, 46, 0.8);
+        width: 95%;
+        padding: 10px;
+        text-align: center;
+        border-radius: 10px;
+    }
+
+    &__top{
+        width: 100%;
+    
+        h2{
+            font-size: 40px;
+            font-weight: bold;
+        }
+    }
+
+    &__buttom{
+        min-height: 150px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex: 1 1 1;
+        flex-wrap: wrap;
+    }
+
+    &__item{
+        margin: 5px 0;
+        padding: 20px;
+        width: 100%;
+        background-color: $first-color;
+
+        &__space{
+            margin: 0;
+            padding: 0;
+            border: none;
+            text-align: left;
+        }
+    }
+
+    a{
+        color: green;
+    }
+}
