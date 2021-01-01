@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/julio-flores/static/css/main.9fa17d34.chunk.css",
-    "main.js": "/julio-flores/static/js/main.2fc92c0f.chunk.js",
-    "main.js.map": "/julio-flores/static/js/main.2fc92c0f.chunk.js.map",
+    "main.js": "/julio-flores/static/js/main.1b156f7b.chunk.js",
+    "main.js.map": "/julio-flores/static/js/main.1b156f7b.chunk.js.map",
     "runtime-main.js": "/julio-flores/static/js/runtime-main.8883a996.js",
     "runtime-main.js.map": "/julio-flores/static/js/runtime-main.8883a996.js.map",
     "static/js/2.a83745d5.chunk.js": "/julio-flores/static/js/2.a83745d5.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/nodejs.81e68cfc.png": "/julio-flores/static/media/nodejs.81e68cfc.png",
     "static/media/php.30807979.png": "/julio-flores/static/media/php.30807979.png",
     "static/media/phpC.106fa3c1.png": "/julio-flores/static/media/phpC.106fa3c1.png",
-    "static/media/profile.1148f433.jpg": "/julio-flores/static/media/profile.1148f433.jpg",
+    "static/media/profile.d9bd6f6c.jpg": "/julio-flores/static/media/profile.d9bd6f6c.jpg",
     "static/media/react.d15092f4.png": "/julio-flores/static/media/react.d15092f4.png",
     "static/media/real.d85b65b8.png": "/julio-flores/static/media/real.d85b65b8.png",
     "static/media/reduxRouter.4998dd8d.png": "/julio-flores/static/media/reduxRouter.4998dd8d.png",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.8883a996.js",
     "static/js/2.a83745d5.chunk.js",
     "static/css/main.9fa17d34.chunk.css",
-    "static/js/main.2fc92c0f.chunk.js"
+    "static/js/main.1b156f7b.chunk.js"
   ]
 }
