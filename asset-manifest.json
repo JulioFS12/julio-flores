@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/julio-flores/static/css/main.9fa17d34.chunk.css",
-    "main.js": "/julio-flores/static/js/main.a8f48040.chunk.js",
-    "main.js.map": "/julio-flores/static/js/main.a8f48040.chunk.js.map",
+    "main.js": "/julio-flores/static/js/main.2fc92c0f.chunk.js",
+    "main.js.map": "/julio-flores/static/js/main.2fc92c0f.chunk.js.map",
     "runtime-main.js": "/julio-flores/static/js/runtime-main.8883a996.js",
     "runtime-main.js.map": "/julio-flores/static/js/runtime-main.8883a996.js.map",
     "static/js/2.a83745d5.chunk.js": "/julio-flores/static/js/2.a83745d5.chunk.js",
@@ -14,31 +14,26 @@
     "static/js/2.a83745d5.chunk.js.LICENSE.txt": "/julio-flores/static/js/2.a83745d5.chunk.js.LICENSE.txt",
     "static/media/bootstrap.d5210cde.png": "/julio-flores/static/media/bootstrap.d5210cde.png",
     "static/media/comunication.061e7921.svg": "/julio-flores/static/media/comunication.061e7921.svg",
-    "static/media/crm.59b38587.png": "/julio-flores/static/media/crm.59b38587.png",
-    "static/media/css.dc89d19b.png": "/julio-flores/static/media/css.dc89d19b.png",
+    "static/media/crm.4a2f99e2.png": "/julio-flores/static/media/crm.4a2f99e2.png",
     "static/media/experience.8f4d7073.svg": "/julio-flores/static/media/experience.8f4d7073.svg",
-    "static/media/front.03f82979.png": "/julio-flores/static/media/front.03f82979.png",
-    "static/media/html.4962ea43.png": "/julio-flores/static/media/html.4962ea43.png",
-    "static/media/javascript.dafbcd7f.png": "/julio-flores/static/media/javascript.dafbcd7f.png",
-    "static/media/journal.8f7a6aa9.png": "/julio-flores/static/media/journal.8f7a6aa9.png",
-    "static/media/node.85fedea5.png": "/julio-flores/static/media/node.85fedea5.png",
-    "static/media/nodejs.78e0dffa.png": "/julio-flores/static/media/nodejs.78e0dffa.png",
-    "static/media/php.d7c9415b.png": "/julio-flores/static/media/php.d7c9415b.png",
-    "static/media/phpC.5b4a9930.png": "/julio-flores/static/media/phpC.5b4a9930.png",
+    "static/media/front.3a77de76.png": "/julio-flores/static/media/front.3a77de76.png",
+    "static/media/journal.08d6a2a5.png": "/julio-flores/static/media/journal.08d6a2a5.png",
+    "static/media/nodejs.81e68cfc.png": "/julio-flores/static/media/nodejs.81e68cfc.png",
+    "static/media/php.30807979.png": "/julio-flores/static/media/php.30807979.png",
+    "static/media/phpC.106fa3c1.png": "/julio-flores/static/media/phpC.106fa3c1.png",
     "static/media/profile.1148f433.jpg": "/julio-flores/static/media/profile.1148f433.jpg",
-    "static/media/react.cd4ab684.png": "/julio-flores/static/media/react.cd4ab684.png",
-    "static/media/real.fed12b41.png": "/julio-flores/static/media/real.fed12b41.png",
-    "static/media/reduxRouter.3b503ce3.png": "/julio-flores/static/media/reduxRouter.3b503ce3.png",
+    "static/media/react.d15092f4.png": "/julio-flores/static/media/react.d15092f4.png",
+    "static/media/real.d85b65b8.png": "/julio-flores/static/media/real.d85b65b8.png",
+    "static/media/reduxRouter.4998dd8d.png": "/julio-flores/static/media/reduxRouter.4998dd8d.png",
     "static/media/rocket.fe9f59cd.svg": "/julio-flores/static/media/rocket.fe9f59cd.svg",
     "static/media/App.scss": "/julio-flores/static/media/skills.d3d200b5.svg",
-    "static/media/terminal.d08cddb3.png": "/julio-flores/static/media/terminal.d08cddb3.png",
-    "static/media/vuejs.b9514adc.png": "/julio-flores/static/media/vuejs.b9514adc.png",
+    "static/media/terminal.b182f804.png": "/julio-flores/static/media/terminal.b182f804.png",
     "static/media/welcomeImg.9ddc1794.svg": "/julio-flores/static/media/welcomeImg.9ddc1794.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8883a996.js",
     "static/js/2.a83745d5.chunk.js",
     "static/css/main.9fa17d34.chunk.css",
-    "static/js/main.a8f48040.chunk.js"
+    "static/js/main.2fc92c0f.chunk.js"
   ]
 }
