@@ -14,6 +14,6 @@ export const education = [
         title: 'Software Engineering Courses',
         name: 'Platzi - Online',
         web: 'www.platzi.com',
-        href: 'http://www.platzi.com/'
+        href: 'https://platzi.com/p/julioflores12/'
     }
 ]

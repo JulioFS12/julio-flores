@@ -20,6 +20,7 @@ import terminal from './images/terminal.png';
 import crm from './images/crm.png';
 import journal from './images/journal.png';
 import real from './images/real.png';
+import python from './images/python.png';
 
 
 
@@ -45,5 +46,6 @@ export {
     terminal,
     crm,
     real,
-    journal
+    journal,
+    python
 }

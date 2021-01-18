@@ -22,7 +22,7 @@ export const dbPorfolio = [
     {
         img: real,
         title: 'Real State Web',
-        description: 'PWA using MERN',
+        description: 'SPA using MERN',
         languagues:[
 
         ],

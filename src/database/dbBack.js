@@ -1,4 +1,4 @@
-import { node, php } from '../assets/images';
+import { node, python } from '../assets/images';
 
 export const dbBack = [
     {
@@ -7,8 +7,8 @@ export const dbBack = [
         description: 'Good Nodejs'
     },
     {
-        icon: php,
-        name: 'Php',
-        description: "I'm stil learning"
+        icon: python,
+        name: 'Python',
+        description: "I'm improving"
     }
 ]

@@ -15,7 +15,7 @@ export const Languages = () => {
                     <FontAwesomeIcon icon={faLanguage} className="icon" />  Spanish: Native
                 </li>
                 <li className="aside-card__item">
-                    <FontAwesomeIcon icon={faLanguage} className="icon" />  English: Elementary
+                    <FontAwesomeIcon icon={faLanguage} className="icon" />  English: A2
                 </li>
             </ul>
         </section>
