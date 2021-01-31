@@ -21,7 +21,7 @@ import crm from './images/crm.png';
 import journal from './images/journal.png';
 import real from './images/real.png';
 import python from './images/python.png';
-
+import sale from './images/sale.png';
 
 
 export {
@@ -47,5 +47,6 @@ export {
     crm,
     real,
     journal,
-    python
+    python,
+    sale,
 }

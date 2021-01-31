@@ -1,4 +1,4 @@
-import { journal, crm, real  } from '../assets/images';
+import { journal, crm, real, sale  } from '../assets/images';
 
 export const dbPorfolio = [
     {
@@ -27,5 +27,14 @@ export const dbPorfolio = [
 
         ],
         url: 'https://github.com/JulioFS12/Real-State-Web-Mern',
+    },
+    {
+        img: sale,
+        title: 'Sale Point Complete',
+        description: 'Desktop App using C sharp and SqlServer',
+        languagues:[
+
+        ],
+        url: '',
     },
 ]
