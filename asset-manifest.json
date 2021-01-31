@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/julio-flores/static/css/main.9fa17d34.chunk.css",
-    "main.js": "/julio-flores/static/js/main.1911203a.chunk.js",
-    "main.js.map": "/julio-flores/static/js/main.1911203a.chunk.js.map",
+    "main.js": "/julio-flores/static/js/main.437750d9.chunk.js",
+    "main.js.map": "/julio-flores/static/js/main.437750d9.chunk.js.map",
     "runtime-main.js": "/julio-flores/static/js/runtime-main.8883a996.js",
     "runtime-main.js.map": "/julio-flores/static/js/runtime-main.8883a996.js.map",
-    "static/js/2.a83745d5.chunk.js": "/julio-flores/static/js/2.a83745d5.chunk.js",
-    "static/js/2.a83745d5.chunk.js.map": "/julio-flores/static/js/2.a83745d5.chunk.js.map",
+    "static/js/2.555aa6b9.chunk.js": "/julio-flores/static/js/2.555aa6b9.chunk.js",
+    "static/js/2.555aa6b9.chunk.js.map": "/julio-flores/static/js/2.555aa6b9.chunk.js.map",
     "static/js/3.498c68fa.chunk.js": "/julio-flores/static/js/3.498c68fa.chunk.js",
     "static/js/3.498c68fa.chunk.js.map": "/julio-flores/static/js/3.498c68fa.chunk.js.map",
     "index.html": "/julio-flores/index.html",
     "static/css/main.9fa17d34.chunk.css.map": "/julio-flores/static/css/main.9fa17d34.chunk.css.map",
-    "static/js/2.a83745d5.chunk.js.LICENSE.txt": "/julio-flores/static/js/2.a83745d5.chunk.js.LICENSE.txt",
+    "static/js/2.555aa6b9.chunk.js.LICENSE.txt": "/julio-flores/static/js/2.555aa6b9.chunk.js.LICENSE.txt",
     "static/media/bootstrap.d5210cde.png": "/julio-flores/static/media/bootstrap.d5210cde.png",
     "static/media/comunication.061e7921.svg": "/julio-flores/static/media/comunication.061e7921.svg",
     "static/media/crm.4a2f99e2.png": "/julio-flores/static/media/crm.4a2f99e2.png",
@@ -27,14 +27,15 @@
     "static/media/real.d85b65b8.png": "/julio-flores/static/media/real.d85b65b8.png",
     "static/media/reduxRouter.4998dd8d.png": "/julio-flores/static/media/reduxRouter.4998dd8d.png",
     "static/media/rocket.fe9f59cd.svg": "/julio-flores/static/media/rocket.fe9f59cd.svg",
+    "static/media/sale.61f5849f.png": "/julio-flores/static/media/sale.61f5849f.png",
     "static/media/App.scss": "/julio-flores/static/media/skills.d3d200b5.svg",
     "static/media/terminal.b182f804.png": "/julio-flores/static/media/terminal.b182f804.png",
     "static/media/welcomeImg.9ddc1794.svg": "/julio-flores/static/media/welcomeImg.9ddc1794.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8883a996.js",
-    "static/js/2.a83745d5.chunk.js",
+    "static/js/2.555aa6b9.chunk.js",
     "static/css/main.9fa17d34.chunk.css",
-    "static/js/main.1911203a.chunk.js"
+    "static/js/main.437750d9.chunk.js"
   ]
 }
