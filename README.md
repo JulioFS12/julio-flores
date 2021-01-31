@@ -72,5 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Install Fontawesome
 Comando completo de instalación: https://www.npmjs.com/package/@fortawesome/react-fontawesome
-
+```
 npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+```
