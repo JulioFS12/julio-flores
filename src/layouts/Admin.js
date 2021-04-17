@@ -38,19 +38,19 @@ export const Admin = () => {
             <aside className="main-container__aside">
                 <Header/>
                 <Contact/>
-                <Languages/>
+                {/* <Languages/>
                 <SocialMedia/>
                 <Space/>
-                <Comunication/>
+                <Comunication/> */}
             </aside>
             <main className="main-container__main">
                 <Welcome/>
-                <Skills/>
+                {/* <Skills/>
                 <Expertise />
                 <Education/>
                 <Certification/>
                 <Portfolio/>
-                <Footer/>
+                <Footer/> */}
             </main>
         </div>
     )

@@ -1,12 +1,9 @@
 import React from 'react';
-import { faFacebook, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
-import { faUserFriends } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 export const SocialMedia = () => {
     return (
         <section className="aside-card">
-            <div className="aside-card__title">
+            {/* <div className="aside-card__title">
                 <h2>
                     <FontAwesomeIcon icon={faUserFriends} className="icon" /> Social Media
                 </h2>
@@ -27,7 +24,7 @@ export const SocialMedia = () => {
                         <FontAwesomeIcon icon={faTwitter} className="icon" />  @juliofs12
                     </a>
                 </li>
-            </ul>
+            </ul> */}
         </section>
     );
 }

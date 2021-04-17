@@ -1,7 +1,4 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {  } from '@fortawesome/free-solid-svg-icons';
-import { faGithub, faInstagram, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 import { useSelector } from 'react-redux';
 
 export const Comunication = () => {
@@ -16,16 +13,6 @@ export const Comunication = () => {
     return (
         <ul className={state}>
             {/* <li className="visible__item">
-                <div className="visible__icon">
-                    <FontAwesomeIcon icon={faWhatsapp} className="icon" />
-                </div>
-                <div className="visible__text">
-                    <a href="http://web.whatsapp.com/" target="_blank" rel="noreferrer" className="first" >
-                        whatsapp
-                    </a>
-                </div>
-            </li> */}
-            <li className="visible__item">
                 <div className="visible__icon">
                     <FontAwesomeIcon icon={faLinkedinIn} className="icon" />
                 </div>
@@ -54,7 +41,7 @@ export const Comunication = () => {
                         Instagram
                     </a>
                 </div>
-            </li>
+            </li> */}
         </ul>
     )
 }
