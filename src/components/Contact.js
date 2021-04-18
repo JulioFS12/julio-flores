@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaAddressCard, FaEnvelope, FaThumbtack, FaLinkedin } from "react-icons/fa";
 
 export const Contact = () => {
     return (
@@ -6,23 +7,23 @@ export const Contact = () => {
         <section className="aside-card">
             <div className="aside-card__title">
             <h2>
-                <FontAwesomeIcon icon={faAddressCard} className="icon" />   Contacts
+                <FaAddressCard/>   Contacts
             </h2>
             </div>
             <ul className="aside-card__list">
                 <li className="aside-card__item">
                     <a href="https://gmail.com/" target="_blank" rel="noreferrer">
-                        <FontAwesomeIcon icon={faEnvelope} className="icon" />  juliocesarflores12@gmail.com
+                        <FaEnvelope/>  juliocesarflores12@gmail.com
                     </a>
                 </li>
                 <li className="aside-card__item">
                     <a href="https://goo.gl/maps/MDwmTWbfibKvWwMW6" target="_blank" rel="noreferrer">
-                        <FontAwesomeIcon icon={faThumbtack} className="icon" /> Maracay - Venezuela
+                        <FaThumbtack/> Maracay - Venezuela
                     </a>
                 </li>
                 <li className="aside-card__item">
                     <a href="https://www.linkedin.com/in/julio-flores-0631bb184/" target="_blank" rel="noreferrer">
-                        <FontAwesomeIcon icon={faLinkedin} className="icon" />  Linkedin Profile
+                        <FaLinkedin/>  Linkedin Profile
                     </a>
                 </li>
             </ul>

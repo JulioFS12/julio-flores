@@ -1,17 +1,17 @@
 import React, { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
-import { Certification } from '../components/Certification';
-import { Comunication } from '../components/Comunication';
+// import { Certification } from '../components/Certification';
+// import { Comunication } from '../components/Comunication';
 import { Contact } from '../components/Contact';
-import { Education } from '../components/Education';
-import { Expertise } from '../components/Expertise';
-import { Footer } from '../components/Footer';
+// import { Education } from '../components/Education';
+// import { Expertise } from '../components/Expertise';
+// import { Footer } from '../components/Footer';
 import { Header } from '../components/Header';
-import { Languages } from '../components/Languages';
-import { Portfolio } from '../components/Portfolio';
-import { Skills } from '../components/Skills';
-import { SocialMedia } from '../components/SocialMedia';
-import { Space } from '../components/Space';
+// import { Languages } from '../components/Languages';
+// import { Portfolio } from '../components/Portfolio';
+// import { Skills } from '../components/Skills';
+// import { SocialMedia } from '../components/SocialMedia';
+// import { Space } from '../components/Space';
 import { Welcome } from '../components/Welcome';
 import { setShowSide } from '../redux/actions/ui';
 
